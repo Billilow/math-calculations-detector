@@ -8,9 +8,9 @@
 
 - [ ] Result showing
 
-##Second part
+# Second part
 
-- [ ]Switch teaching mode
+- [ ] Switch teaching mode
 
 - [ ] Equations to be randomly chosen
 
@@ -20,4 +20,4 @@
 
 - [ ] Correct give song, wrong look down plus sad song
 
-- [] ?? maybe some tts sound (voice reading the equations)
+- [ ] ?? maybe some tts sound (voice reading the equations)
