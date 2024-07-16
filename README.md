@@ -1,3 +1,23 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:223ea55a4b740be748c6340507c5e534dc9e4269d9b09f63471ffd479e2d366a
-size 6269
+## Todo
+
+- [ ] Text recognition library implementation
+
+- [ ] Write equations
+
+- [ ] Calculating equations code
+
+- [ ] Result showing
+
+# Second part
+
+- [ ] Switch teaching mode
+
+- [ ] Equations to be randomly chosen
+
+- [ ] Text recognition
+
+- [ ] Decide correct or wrong
+
+- [ ] Correct give song, wrong look down plus sad song
+
+- [ ] ?? maybe some tts sound (voice reading the equations)
