@@ -1,5 +1,5 @@
+rough_work.py filter=lfs diff=lfs merge=lfs -text
 switch[[:space:]]teaching[[:space:]]mode.py filter=lfs diff=lfs merge=lfs -text
 switch_teaching[[:space:]]_mode.py filter=lfs diff=lfs merge=lfs -text
 README.md filter=lfs diff=lfs merge=lfs -text
 maths.py filter=lfs diff=lfs merge=lfs -text
-rough_work.py filter=lfs diff=lfs merge=lfs -text
