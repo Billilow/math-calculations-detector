@@ -1,4 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:96295ebd295dc4ff0e55885b902a7c88f522ff84e3aaa8c527bdb1e051dbe0f3
-size 897
-*.* filter=lfs diff=lfs merge=lfs -text
+result_recognition.py filter=lfs diff=lfs merge=lfs -text
+rough_work.py filter=lfs diff=lfs merge=lfs -text
+Final.py filter=lfs diff=lfs merge=lfs -text
+gesture_recognizer.task filter=lfs diff=lfs merge=lfs -text
+Math_calculations_with_Gretchen.pdf filter=lfs diff=lfs merge=lfs -text
+forTesting.py filter=lfs diff=lfs merge=lfs -text
+new[[:space:]]random.py filter=lfs diff=lfs merge=lfs -text
+randoom[[:space:]]choosen[[:space:]]equation.py filter=lfs diff=lfs merge=lfs -text
+switch[[:space:]]teaching[[:space:]]mode.py filter=lfs diff=lfs merge=lfs -text
+switch_teaching_mode.py filter=lfs diff=lfs merge=lfs -text
+ym_testing.py filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+maths.py filter=lfs diff=lfs merge=lfs -text
+new[[:space:]]one.py filter=lfs diff=lfs merge=lfs -text
+report.md filter=lfs diff=lfs merge=lfs -text
+robot_motion.py filter=lfs diff=lfs merge=lfs -text
+sound_checking.py filter=lfs diff=lfs merge=lfs -text
